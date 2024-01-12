@@ -1,19 +1,19 @@
 {
-  "name": "q",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Dennis-Kioko/Phase-1-SA-03-Code-Challenge.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Dennis-Kioko/Phase-1-SA-03-Code-Challenge/issues"
-  },
-  "homepage": "https://github.com/Dennis-Kioko/Phase-1-SA-03-Code-Challenge#readme"
+"name": "q",
+"version": "1.0.0",
+"description": "",
+"main": "index.js",
+"scripts": {
+"test": "echo \"Error: no test specified\" && exit 1"
+},
+"repository": {
+"type": "git",
+"url": "git+https://github.com/Dennis-Kioko/Phase-1-SA-03-Code-Challenge.git"
+},
+"author": "",
+"license": "ISC",
+"bugs": {
+"url": "https://github.com/Dennis-Kioko/Phase-1-SA-03-Code-Challenge/issues"
+},
+"homepage": "https://github.com/Dennis-Kioko/Phase-1-SA-03-Code-Challenge#readme"
 }
